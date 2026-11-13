@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**RobsonAMR/RobsonAMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou Robson Almeida! 👋
 
-Here are some ideas to get you started:
+### 💻 Desenvolvimento Web | Tecnologia da Informação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou entusiasta de tecnologia, desenvolvimento de sistemas
+e infraestrutura de TI.
+
+### 🚀 Sobre mim
+
+- 💻 Desenvolvo aplicações e sistemas web.
+- 🐧 Trabalho com Linux e servidores.
+- 📚 Estou sempre aprendendo novas tecnologias.
+- 🛠️ Gosto de criar soluções para problemas reais.
+
+### 🛠️ Tecnologias e ferramentas
+
+HTML • CSS • JavaScript • PHP • MySQL • Linux • Git
+
+### 📊 Meu GitHub
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=RobsonAMR&show_icons=true&theme=default)
+
+### 📫 Contato
+
+[Meu GitHub](https://github.com/RobsonAMR)
