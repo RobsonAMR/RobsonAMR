@@ -1,5 +1,9 @@
 
 <div align="center">
+  <img src="banner.png" alt="Banner Robson Almeida" width="100%">
+</div>
+
+<div align="center">
 
 # 👋 Olá, eu sou Robson Almeida!
 
